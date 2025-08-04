@@ -3,17 +3,17 @@
     {
       "ItemName": "Samsung a16",
       "ItemPrice": "7.000.000",
-      "ItemImage": "/Images/Samsung-a16.jpg"
+      "ItemImage": "http://localhost:8000/Images/Samsung-a16.jpg"
     },
     {
       "ItemName": "Samsung a23",
       "ItemPrice": "8.000.000",
-      "ItemImage": "/Images/Samsung-a23.jpg"
+      "ItemImage": "http://localhost:8000/Images/Samsung-a23.jpg"
     },
     {
       "ItemName": "Samsung a33",
       "ItemPrice": "9.000.000",
-      "ItemImage": "/Images/Samsung-a33.jpg"
+      "ItemImage": "http://localhost:8000/Images/Samsung-a33.jpg"
     }
   ]
 }
